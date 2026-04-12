@@ -1,6 +1,5 @@
-//problem:jump Game
-//Dificulty: medium
-//Runtime:1ms-Beats 99.95%
+//problem Name: Jump Game
+//Run Time:1ms Beats 99.95% 
 class Solution {
     public boolean canJump(int[] nums) {
         int n=nums.length;
